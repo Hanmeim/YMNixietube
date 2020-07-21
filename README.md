@@ -1,4 +1,4 @@
-# 矩阵键盘
+# YM数码管
 
 
 ![](./arduinoC/_images/featured.png)
@@ -22,8 +22,8 @@
 
 
 ## 描述
-利用arduino官方的keypad库
-支持3-4行/列的矩阵键盘
+利用YM的数码管库
+仅限于YM的数码管
 
 ## 积木列表
 
